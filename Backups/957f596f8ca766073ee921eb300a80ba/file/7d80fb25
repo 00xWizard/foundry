@@ -1,0 +1,3 @@
+file:///root/foundry/foundry-fund-me-f23/.env {"mtime":1688177601916,"ctime":1687917499971,"size":139,"etag":"3ap3ago8l4f","orphaned":false,"typeId":""}
+SEPOLIA_RPC_URL=https://eth-mainnet.g.alchemy.com/v2/z9Nz8OkcoCOUoQwp9JuTx19OrrVOZYkv
+ETHERSCAN_API_KEY=A3MTUCP88M1BYABU8VSIT49UXAIXDU679YS

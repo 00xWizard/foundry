@@ -1,0 +1,21 @@
+[Info  - 3:54:14 AM] Solidity by Nomic Foundation Starting ...
+[Info  - 3:54:14 AM] env: production
+[Info  - 3:54:14 AM] Client starting
+[Info  - 3:54:16 AM] Language server starting
+[Info  - 3:54:16 AM]   Release: hardhat-solidity@0.7.3
+[Info  - 3:54:16 AM]   Environment: production
+[Info  - 3:54:16 AM]   Telemetry Enabled: false
+[Info  - 3:54:16 AM]   Telemetry Tracking Id: b699b673be...
+[Info  - 3:54:16 AM]   Workspace Folders:
+[Info  - 3:54:16 AM]     foundry-fund-me-f23 (file:///root/foundry/foundry-fund-me-f23)
+[Info  - 3:54:16 AM] Fetching latest solidity versions
+[Info  - 3:54:17 AM] Language server ready
+[Info  - 3:54:17 AM] [indexing] Found projects:
+[Info  - 3:54:17 AM] [indexing] -  Type: Foundry
+[Info  - 3:54:17 AM] [indexing]    Base path: /root/foundry/foundry-fund-me-f23
+[Info  - 3:54:17 AM] [indexing]    Config file: /root/foundry/foundry-fund-me-f23/foundry.toml
+[Info  - 3:54:17 AM] [indexing] Initializing /root/foundry/foundry-fund-me-f23/foundry.toml
+[Info  - 3:54:17 AM] [indexing] Done /root/foundry/foundry-fund-me-f23/foundry.toml
+[Info  - 3:54:17 AM] [indexing] Scanning workspace folders for sol files
+[Info  - 3:54:17 AM] [indexing] Scan complete, 10 sol files found
+[Info  - 3:54:17 AM] [indexing] Analyzing 3 solidity files
